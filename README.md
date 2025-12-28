@@ -17,8 +17,7 @@ All data is stored and loaded from a **YAML configuration file**.
 Install dependencies:
 ```bash
 pip install pyyaml
+
 ▶️ How to Run
 python main.py
-Launches the interactive menu interface
-Allows querying POIs, POI types, and visitors
-Outputs results directly in the terminal
+
