@@ -19,5 +19,5 @@ Install dependencies:
 pip install pyyaml
 
 ▶️ How to Run
-python main.py
+python cli.py
 
